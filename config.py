@@ -1,0 +1,1 @@
+BASE_URI='https://gorest.co.in//public-api/users'
